@@ -29,7 +29,3 @@
         document.documentElement.scrollTop = 0;
     }
 
-
-    // ===============maquee slider=====================
-
-
